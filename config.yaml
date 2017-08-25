@@ -18,7 +18,7 @@ blackfriday:
 params:
   intro: Kautsya Kanu
   description: Algorithms, Machine Learning, Natural Language Processing, Computer Vision
-  authorImage: authorImage.jpg
+  authorimage: authorImage.jpg
   enableRSS: true
   dateFormat: 'Jan 2, 2006'
   travisRepo: activatedgeek/website
