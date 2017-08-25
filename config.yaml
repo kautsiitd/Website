@@ -1,0 +1,41 @@
+---
+baseURL: 'https://www.kautsya.com'
+relativeURLs: true
+canonifyurls: true
+enableRobotsTXT: true
+languageCode: en-us
+metaDataFormat: yaml
+pygmentsCodeFences: true
+pygmentsStyle: emacs
+
+author: Kautsya Kanu
+title: Kautsya Kanu
+theme: goa
+
+blackfriday:
+  hrefTargetBlank: true
+
+params:
+  intro: Kautsya Kanu
+  description: Algorithms, Machine Learning, Natural Language Processing, Computer Vision
+  authorImage: authorImage.jpg
+  enableRSS: true
+  dateFormat: 'Jan 2, 2006'
+  travisRepo: activatedgeek/website
+  extra:
+    copyright: '&copy; 2017. Kautsya Kanu.'
+    poweredBy: true
+    facebookProfileId: 1233718306710372
+  social:
+    github: kautsiitd
+    stackoverflow: 4614493/kautsya-kanu?tab=profile
+    codeChef: kauts_kanu
+    codeChefDiscuss: 70101/kauts_kanu
+    linkedin: kautsya-kanu-a0328293
+    facebook: kautsya.kanu
+    email: kautsiitd@gmail.com
+  menu:
+    main:
+      - name: ""
+        url: /files/Resume.pdf
+        weight: 1
