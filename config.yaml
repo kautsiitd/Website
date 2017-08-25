@@ -1,5 +1,5 @@
 ---
-baseURL: 'https://www.kautsya.com'
+baseURL: 'http://www.kautsya.com'
 relativeURLs: true
 canonifyurls: true
 enableRobotsTXT: true
