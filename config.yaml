@@ -21,7 +21,6 @@ params:
   authorimage: authorImage.jpg
   enableRSS: true
   dateFormat: 'Jan 2, 2006'
-  travisRepo: activatedgeek/website
   extra:
     copyright: '&copy; 2017. Kautsya Kanu.'
     poweredBy: true
