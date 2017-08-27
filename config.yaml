@@ -35,6 +35,7 @@ params:
     email: kautsiitd@gmail.com
   menu:
     main:
-      - name: ""
+      - name: Resume
+        identifier: resume
         url: /files/Resume.pdf
         weight: 1
