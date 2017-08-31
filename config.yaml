@@ -35,7 +35,11 @@ params:
     email: kautsiitd@gmail.com
   menu:
     main:
+      - name: Blogs
+        identifier: blog
+        url: /blog
+        weight: 1
       - name: Resume
         identifier: resume
         url: /files/Resume.pdf
-        weight: 1
+        weight: 2
