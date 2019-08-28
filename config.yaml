@@ -1,5 +1,5 @@
 ---
-baseURL: 'https://www.kautsya.com'
+baseURL: 'https://www.kautsya.in'
 relativeURLs: true
 canonifyurls: true
 enableRobotsTXT: true
@@ -17,7 +17,7 @@ blackfriday:
 
 params:
   intro: Kautsya Kanu
-  description: Algorithms, Machine Learning, Natural Language Processing, Computer Vision
+  description: iOS,Algorithms, Machine Learning, Natural Language Processing, Computer Vision
   authorimage: authorImage.jpg
   enableRSS: true
   dateFormat: 'Jan 2, 2006'
