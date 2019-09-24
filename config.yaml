@@ -17,12 +17,12 @@ blackfriday:
 
 params:
   intro: Kautsya Kanu
-  description: iOS,Algorithms, Machine Learning, Natural Language Processing, Computer Vision
+  description: iOS, Algorithms, Machine Learning, Natural Language Processing, Computer Vision
   authorimage: authorImage.jpg
   enableRSS: true
   dateFormat: 'Jan 2, 2006'
   extra:
-    copyright: '&copy; 2017. Kautsya Kanu.'
+    copyright: '&copy; 2019. Kautsya Kanu.'
     poweredBy: true
     facebookProfileId: 1233718306710372
   social:
@@ -33,9 +33,9 @@ params:
     linkedin: kautsya-kanu-a0328293
     facebook: kautsya.kanu
     email: kautsiitd@gmail.com
-  menu:
-    main:
-      - name: Resume
-        identifier: resume
-        url: /files/Resume.pdf
-        weight: 1
+menu:
+  main:
+    - name: Resume
+      identifier: resume
+      url: /files/Resume.pdf
+      weight: 1
