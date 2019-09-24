@@ -104,6 +104,12 @@
   {{ with .Site.Params.social.whatsapp}}
   <a href="https://wa.me/{{.}}" aria-label="Whatsapp" target="_blank"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>
   {{ end }}
+  {{ with .Site.Params.social.codeChef }}
+  <a href="https://www.codechef.com/users/{{.}}" aria-label="CodeChef" target="_blank"><i class="fas fa-graduation-cap" aria-hidden="true"></i></a>
+  {{ end }}
+  {{ with .Site.Params.social.codeChefDiscuss }}
+  <a href="https://discussed.codechef.com/users/{{.}}" aria-label="CodeChefDiscuss" target="_blank"><i class="fab fa-twitch" aria-hidden="true"></i></a>
+  {{ end }}
   {{ with .Site.Params.social.email }}
   <a href="mailto:{{.}}" aria-label="Email"><i class="fas fa-envelope" aria-hidden="true"></i></a>
   {{ end }}
